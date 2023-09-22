@@ -249,7 +249,7 @@ section{
 .image img{
     position: absolute;
     top: 0px ;
-    left: 45%;
+    left: 50%;
     transform: translateX(-50%);
     max-width: 400px;
     object-fit: cover;
